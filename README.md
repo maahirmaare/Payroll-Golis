@@ -1,5 +1,4 @@
-# Payroll Management System README
-
+# Payroll Management System 
 ## Introduction
 This repository contains source code for an Employee Payroll Website developed using CodeIgniter 3 framework. The system provides comprehensive features for both administrators and employees to manage payroll-related tasks efficiently.
 
@@ -48,6 +47,3 @@ This project is licensed under the [license name] License - see the [LICENSE](LI
 
 ## Feedback
 Feedback and contributions are welcome! If you encounter any issues or have suggestions for improvements, please open an issue or submit a pull request.
-
-## Contact
-For further inquiries or support, please contact [your contact information].
